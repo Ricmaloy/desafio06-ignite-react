@@ -1,0 +1,136 @@
+{
+    "continents": [
+        {
+            "id": 1,
+            "name": "Europa",
+            "subtitle": "O continente mais antigo",
+            "banner": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "description":"A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+            "countrys": 50,
+            "languages": 200,
+            "plusCities": [
+                {
+                    "city": "Londres",
+                    "country": "Reino Unido",
+                    "photoURL": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "https://i.pinimg.com/originals/e9/86/45/e9864531e2fcf03a33626cf261eb8194.png"
+                },
+                {
+                    "city": "Paris",
+                    "country": "França",
+                    "photoURL": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "http://geo5.net/imagens/bandeira-da-fran%C3%A7a-grande.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "América do Norte",
+            "subtitle": "O continente mais frio",
+            "banner": "https://images.unsplash.com/photo-1558219902-b516d119d0bd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1005&q=80",
+            "description":"A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+            "countrys": 23,
+            "languages": 165 ,
+            "plusCities": [
+                {
+                    "city": "Nova York",
+                    "country": "Estados Unidos",
+                    "photoURL": "https://images.unsplash.com/photo-1579578460685-632f4546a378?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+                    "countryFlagURL": "https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "América do Sul",
+            "subtitle": "O continente mais quente",
+            "banner": "https://images.unsplash.com/photo-1592322053945-88b9b538becc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+            "description":"A América do Sul está localizada em grande parte no hemisfério sul, na zona intertropical ocidental. A América do Sul abrange um território de 18 milhões de quilômetros quadrados e é banhada a leste pelo oceano Atlântico, a oeste pelo oceano Pacífico e ao norte pelo mar das Antilhas, conhecido como do Caribe.",
+            "countrys": 14,
+            "languages": 448,
+            "plusCities": [
+                {
+                    "city": "Rio de Janeiro",
+                    "country": "Brasil",
+                    "photoURL": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "https://cdn.awsli.com.br/600x700/1677/1677907/produto/83123394/ce4b2fd5a5.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ásia",
+            "subtitle": "Uma explosão de cultura",
+            "banner": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "description":"A Ásia é um dos continentes do mundo, considerado o mais extenso territorialmente e o mais populoso também. ... A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte.",
+            "countrys": 48,
+            "languages": 2300,
+            "plusCities": [
+                {
+                    "city": "Hong Kong",
+                    "country": "China",
+                    "photoURL": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "data:image/png;base64,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"                   
+                },
+                {
+                    "city": "Bangkok",
+                    "country": "Tailândia",
+                    "photoURL": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=647&q=80",
+                    "countryFlagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
+                },
+                {
+                    "city": "Macau",
+                    "country": "China",
+                    "photoURL": "https://images.unsplash.com/photo-1570977801450-4f244be7a4b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "data:image/png;base64,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"
+                },
+                {
+                    "city": "Singapura",
+                    "country": "Singapura",
+                    "photoURL": "https://images.unsplash.com/photo-1581769157364-bf5e8d9d3dd4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1501&q=80",
+                    "countryFlagURL": "data:image/png;base64,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"
+                },
+                {
+                    "city": "Dubai",
+                    "country": "Emirados Árabes Unidos",
+                    "photoURL": "https://images.unsplash.com/photo-1489516408517-0c0a15662682?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+                    "countryFlagURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "África",
+            "subtitle": "Aqui a fauna e cultura se misturam",
+            "banner": "https://images.unsplash.com/photo-1577971132997-c10be9372519?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+            "description":"A África é um continente localizado na zona intertropical, com maior parte do seu território no Hemisfério Sul. Possui mais de um bilhão de habitantes e 30 milhões de km2 de extensão, sendo, por isso, considerado um dos maiores e mais populosos continentes do mundo.",
+            "countrys": 54,
+            "languages": 2000,
+            "plusCities": [
+                {
+                    "city": "Cidade do Cabo",
+                    "country": "África do Sul",
+                    "photoURL": "https://cdn.britannica.com/42/126842-050-0803BC41/Sea-Point-Cape-Town-SAf.jpg",
+                    "countryFlagURL": "data:image/png;base64,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"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Oceania",
+            "subtitle": "Cheia de surpresas",
+            "banner": "https://images.unsplash.com/photo-1588001400947-6385aef4ab0e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
+            "description":"A Oceania é composta pela Austrália, Nova Zelândia e Papua Nova Guiné. Nesta seção você aprenderá mais sobre esses países. ... A Oceania possui uma área de 8,4 milhões de km2, e essa abrange todos os hemisférios, o maior país do continente é a Austrália, além desse existem várias ilhas dispersas pelo Oceano Pacífico.",
+            "countrys": 14,
+            "languages": 22,
+            "plusCities": [
+                {
+                    "city": "Sydney",
+                    "country": "Austrália",
+                    "photoURL": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+                    "countryFlagURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+                }
+            ]
+        }
+    ]
+}
